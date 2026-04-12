@@ -43,7 +43,19 @@ $viewport_tag
   <META NAME="keywords" CONTENT="Divine Office, Breviarium, Liturgy, Traditional, Zsolozsma">
   <META NAME="Copyright" CONTENT="Like GNU">
   <meta name="color-scheme" content="dark light">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400..700;1,400..700&display=swap" rel="stylesheet">
+
   <STYLE>
+    html {
+      font-family: "Libre Baskerville", serif;
+      font-optical-sizing: auto;
+      font-weight: 400;
+      font-style: normal;
+    }
+
     /* https://www.30secondsofcode.org/css/s/offscreen/ */
     .offscreen {
       border: 0;
