@@ -225,8 +225,8 @@ sub horasjsend {
     } else {
       for (let i = 0; i < gabcSources.length; i++) {
         let ctxt = new exsurge.ChantContext();
-        ctxt.lyricTextFont = "'Crimson Text', serif";
-        ctxt.lyricTextSize *= 1.2;
+        ctxt.lyricTextFont = "'Libre Baskerville', serif";
+        ctxt.lyricTextSize *= 0.9;
         ctxt.spaceBetweenSystems = 0;
         ctxt.dropCapTextFont = ctxt.lyricTextFont;
         ctxt.annotationTextFont = ctxt.lyricTextFont;
