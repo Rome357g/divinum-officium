@@ -15,7 +15,7 @@ RUN echo "{" > /build/buildinfo && \
 FROM public.ecr.aws/docker/library/perl:5.42-slim AS final
 LABEL maintainer="Thomas Randall <thomas.james.randall@gmail.com>"
 
-# 1. System dependencies 
+# 1. System dependencies (Removed libcap2-bin)
 RUN apt-get update && apt-get install -y --no-install-recommends \
     build-essential \
     libperl-dev \
@@ -59,10 +59,14 @@ RUN find /var/www/web -type d -exec chmod 755 {} + && \
 # 5. Internalize URLs
 RUN grep -rl 'divinumofficium.com' /var/www/web | xargs sed -i 's|http[s]*://divinumofficium.com/|/|g'
 
-USER www-data
+# Removed setcap block entirely as it is not supported in the serverless runtime.
 
-# MATCH GCP CONFIG: Port 80
-EXPOSE 80
+USER www-data
+COPY --chown=www-data:www-data web /var/www/web
+
+# Updated to Port 8080 (Non-privileged)
+EXPOSE 8080
 
 ENTRYPOINT ["/usr/local/bin/dumb-init", "--"]
-CMD ["starman", "--port", "80", "--workers", "5", "/var/www/app.psgi"]
+# Updated Starman to listen on 8080
+CMD ["starman", "--port", "8080", "--workers", "5", "/var/www/app.psgi"]
