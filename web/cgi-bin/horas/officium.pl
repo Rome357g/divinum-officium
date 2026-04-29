@@ -103,7 +103,7 @@ if (!$searchvalue) { $searchvalue = '0'; }
 
 our $caller = strictparam('caller');
 our $expandind = 0;
-
+print "Content-type: text/html; charset=utf-8\n\n" if $officium ne 'Pofficium.pl' ; #<= uncomment for debuggin "Internal Server Errors"
 $setupsave = strictparam('setup');
 loadsetup($setupsave);
 
@@ -119,11 +119,12 @@ set_runtime_options('parameters');                    # priest, lang1 ... etc
 
 if ($command =~ s/changeparameters//) { getsetupvalue($command); }
 
-print "Content-type: text/html; charset=utf-8\n\n"; #<= uncomment for debuggin "Internal Server Errors"
+#print "Content-type: text/html; charset=utf-8\n\n"; #<= uncomment for debuggin "Internal Server Errors"
 $version = check_version($version) || (error("Unknown version: $version") && 'Rubrics 1960 - 1960');
 $lang1 = check_language($lang1) || (error("Unknown language: $lang1") && 'Latin');
 $lang2 = check_language($lang2) || 'English';
 $langfb = check_language($langfb) || 'English';
+$dioecesis ||= 'Generale';
 
 # option Pius XII psalter changes Latin to Latin-Bea
 if ($psalmvar) {
@@ -137,12 +138,12 @@ my @horas = ();
 if ($command =~ s/^pray//) {
   $command =~ s/SanctaMissa//;
   @horas = split(/(?=\p{Lu}\p{Ll}+)/, $command);
-  
+
   if ($horas[0] eq 'Omnes') {
     @horas = gethoras($votive eq 'C9');
   } elsif ($horas[0] ne 'Plures') {
     @horas = map { check_horas($_); } @horas;
-    
+
     if (@horas > 1 && $votive ne 'C9') {
       $plures = join('', @horas);
     }
@@ -168,6 +169,7 @@ if ($Ck) {
 # save parameters
 $setupsave = savesetup(1);
 $setupsave =~ s/\r*\n*//g;
+
 our $expandnum = strictparam('expandnum');
 
 $only = !$Ck && ($lang1 eq $lang2);
