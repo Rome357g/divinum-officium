@@ -90,7 +90,7 @@ $q = new CGI;
 #get parameters
 getini('horas');    #files, colors
 
-our ($lang1, $lang2, $langfb, $expand, $votive, $column, $local);
+our ($lang1, $lang2, $langfb, $expand, $votive, $column, $local, $dioecesis);
 our %translate;     #translation of the skeleton label for 2nd language
 
 our $command = strictparam('command');
@@ -119,7 +119,7 @@ set_runtime_options('parameters');                    # priest, lang1 ... etc
 
 if ($command =~ s/changeparameters//) { getsetupvalue($command); }
 
-#print "Content-type: text/html; charset=utf-8\n\n"; #<= uncomment for debuggin "Internal Server Errors"
+print "Content-type: text/html; charset=utf-8\n\n"; #<= uncomment for debuggin "Internal Server Errors"
 $version = check_version($version) || (error("Unknown version: $version") && 'Rubrics 1960 - 1960');
 $lang1 = check_language($lang1) || (error("Unknown language: $lang1") && 'Latin');
 $lang2 = check_language($lang2) || 'English';
@@ -137,12 +137,12 @@ my @horas = ();
 if ($command =~ s/^pray//) {
   $command =~ s/SanctaMissa//;
   @horas = split(/(?=\p{Lu}\p{Ll}+)/, $command);
-
+  
   if ($horas[0] eq 'Omnes') {
     @horas = gethoras($votive eq 'C9');
   } elsif ($horas[0] ne 'Plures') {
     @horas = map { check_horas($_); } @horas;
-
+    
     if (@horas > 1 && $votive ne 'C9') {
       $plures = join('', @horas);
     }
@@ -168,7 +168,6 @@ if ($Ck) {
 # save parameters
 $setupsave = savesetup(1);
 $setupsave =~ s/\r*\n*//g;
-
 our $expandnum = strictparam('expandnum');
 
 $only = !$Ck && ($lang1 eq $lang2);
@@ -257,19 +256,21 @@ if ($command =~ /setup(.*)/i) {
     }
   }
 
-  print par_c('<I>' . horas_menu($completed, $date1, $version, $lang2, $votive) . '</I>');
+  print par_c('<I>' . horas_menu($completed, $date1, $version, $lang2, $votive, $dioecesis) . '</I>');
 
   if ($officium ne 'Pofficium.pl') {
     $votive ||= 'Hodie';
+    $dioecesis ||= 'Generale';
     $version = $version1 if ($Ck);
     print par_c(selectables('general' . ($Ck ? 'c' : '')));
   } else {
     print par_c(pmenu());
 
     print "<TABLE ALIGN='CENTER' BORDER='1' $background>";
-    print selectable_p('versions', $version, $date1, $version, $lang2, $votive);
-    print selectable_p('languages', $lang2, $date1, $version, $lang2, $votive, 'Language 2');
-    print selectable_p('votives', $votive, $date1, $version, $lang2, $votive);
+    print selectable_p('versions', $version, $date1, $version, $lang2, $votive, $dioecesis);
+    print selectable_p('languages', $lang2, $date1, $version, $lang2, $votive, $dioecesis, 'Language 2');
+    print selectable_p('votives', $votive, $date1, $version, $lang2, $votive, $dioecesis);
+    print selectable_p('dioecesis', $dioecesis, $date1, $version, $lang2, $votive, $dioecesis);
     print "</TABLE>\n";
   }
 
