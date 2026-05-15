@@ -38,7 +38,7 @@ PrintTag
   my $gloss_color = ($gf =~ /(\#[0-9a-fA-F]+)\s*$/ || $gf =~ /([a-zA-Z]+)\s*$/) ? $1 : '';
   $gloss_color = '' if $gloss_color eq 'italic' || $gloss_color eq 'bold';
   my $gloss_weight = ($gf =~ /\bbold\b/) ? 'bold' : 'normal';
-  my $gloss_style  = ($gf =~ /\bitalic\b/) ? 'italic' : 'normal';
+  my $gloss_style = ($gf =~ /\bitalic\b/) ? 'italic' : 'normal';
 
   print <<"PrintTag";
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
@@ -406,6 +406,7 @@ sub getcookies {
       # $error = "Cookie $cname mismatch $name need $check has $param<br/>== $sti[-1]";
       return 0;
     }
+    pop @sti;    # remove check string so it never maps to a param slot
     setsetup($name, @sti);
     return 1;
   }
