@@ -18,12 +18,12 @@ V. The resurrection of the body.
 R. And life everlasting. Amen.
 
 [Adjutorium nostrum]
-V. Our help is + in the name of the Lord,  
-R. Who made heaven and earth.
+V. Our help + is in the Name of the Lord,  
+R. Who hath made heaven and earth.
 
 [Converte nos]
-V. Turn us then, +++ O God, our saviour: 
-R. And let thy anger cease from us.
+V. Turn us, then, +++ O God our Saviour. 
+R. And let thine anger cease from us.
 
 [Dominus det]
 V. May the Lord grant us his peace.
@@ -52,7 +52,7 @@ R. And let my cry come unto thee.
 /:skip second «O Lord, hear my prayer»:/
 
 [Confiteor_]
-v. I confess to almighty God, to blessed Mary ever Virgin, to blessed Michael the Archangel, to blessed John the Baptist, to the holy Apostles Peter and Paul, and to all the Saints, that I have sinned exceedingly in thought, word and deed: /:strikes his breast:/ through my fault, through my fault, through my most grievous fault. Therefore I beseech blessed Mary ever Virgin, blessed Michael the Archangel, blessed John the Baptist, the holy Apostles Peter and Paul, and all the Saints, to pray for me to the Lord our God. 
+v. I confess to Almighty God, to Blessed Mary Ever-Virgin, to blessed Michael the Archangel, to blessed John the Baptist, to the holy Apostles Peter and Paul, and to all the Saints, that I have sinned exceedingly in thought, word and deed: /:strikes his breast:/ through my fault, through my own fault, through my own most grievous fault. Therefore, I beseech Blessed Mary Ever-Virgin, blessed Michael the Archangel, blessed John the Baptist, the holy Apostles Peter and Paul, and all the Saints, to pray to the Lord our God for me. 
 
 [Confiteor] (rubrica Monastica)
 @:Confiteor_:s/Paul/Paul, our holy Father Benedict/g
@@ -61,20 +61,20 @@ v. I confess to almighty God, to blessed Mary ever Virgin, to blessed Michael th
 v.  I confess to almighty God, to blessed Mary ever Virgin, to blessed Dominic our father, to all the Saints and to you, brethren, that I have sinned exceedingly by thought, word, deed and omission, through my fault: I beseech you to pray for me.
 
 [Misereatur]
-v. May almighty God have mercy on us, forgive us our sins, and bring us to everlasting life. Amen.
+v. May Almighty God have mercy on us, forgive us our sins, and bring us to everlasting life. Amen.
 
 [Misereatur] (rubrica Ordo Praedicatorum)
-v. May almighty God have mercy upon you and forgive you all your sins: may he free you from all evil, strengthen and confirm you in every good work, and bring you to life everlasting.
+v. May Almighty God have mercy upon you and forgive you all your sins: may he free you from all evil, strengthen and confirm you in every good work, and bring you to life everlasting.
 
 [Indulgentiam]
-v. May the almighty + and merciful Lord grant us pardon, absolution and remission of our sins. Amen.
+v. May the Almighty + and merciful Lord grant us pardon, absolution and remission of our sins. Amen.
 
 [Domine labia]
 V. O Lord, ++ open thou my lips.
 R. And my mouth shall declare thy praise.
 
 [Deus in adjutorium]
-V. O God, + come to my assistance;
+V. O God, + come to my aid;
 R. O Lord, make haste to help me.
 v. Glory be to the Father, and to the Son, * and to the Holy Ghost. 
 As it was in the beginning, is now, * and ever shall be, world without end. Amen.
@@ -228,7 +228,7 @@ V. From the gates of hell.
 R. Deliver their souls, O Lord!
 
 [Oratio Visita_]
-v. Visit, we beseech thee, O Lord, this dwelling, and drive far from it the snares of the enemy; let thy holy angels dwell herein to preserve us in peace, and let thy blessing be always upon us.
+v. Visit, we beseech thee, O Lord, this dwelling, and drive far from it all snares of the enemy; may Thy holy Angels dwell herein, who may keep us in peace; and may Thy blessing be upon us always.
 
 [respice]
 V. Look upon thy servants and upon thy works: and direct their children.
@@ -265,7 +265,7 @@ v. O Lord, our heavenly Father, Almighty and everlasting God, who has safely bro
 Benedictio. May the Lord Almighty grant us a peaceful night and perfection at our death.
 
 [Benedictio Completorium2]
-Benedictio. The almighty and merciful Lord, + the Father, the Son and the Holy Spirit, bless us and keep us.
+Benedictio. The Almighty and merciful Lord, + the Father, the Son and the Holy Ghost, bless us and keep us.
 
 [Benedictio Completorium2] (rubrica Ordo Praedicatorum)
 Benedictio. May the blessing of almighty God, + the Father, the Son, and the Holy Spirit come down to us and remain forever.
