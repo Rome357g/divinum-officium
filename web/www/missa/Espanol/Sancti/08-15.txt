@@ -1,5 +1,5 @@
 [Rank]
-In Assumptione Beatae Mariae Virginis;;Duplex I classis cum Octava Communi;;7;;ex C11
+Asunción de la Sma. Virgen;;Duplex I classis cum Octava Communi;;7;;ex C11
 
 [Introitus]
 !Apoc 12:1
@@ -38,7 +38,7 @@ Ascienda a Ti, Señor, la ofrenda de nuestra devoción, y, por  la intercesión 
 $Per Dominum
 
 [Communio]
-!Luke 1:48-49
+!Lc 1:48-49
 Todas las generaciones me llamarán bienaventurada porque ha hecho en mí grandes maravillas el todopoderoso.
 
 [Postcommunio]
