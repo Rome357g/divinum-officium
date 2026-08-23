@@ -1,28 +1,28 @@
 [Officium]
-Dominica XIII Post Pentecosten
+Thirteenth Sunday after Pentecost
 
 [Oratio]
-Almighty and everlasting God, give unto us the increase of faith, hope, and charity, and that we may worthily obtain that which Thou dost promise, make us to love that which Thou dost command. 
+Almighty everlasting God, grant unto us an increase of faith, hope, and charity: and, that we may merit to attain what Thou promisest, make us to love what Thou commandest.
 $Per Dominum
 
 [Lectio7]
 From the Holy Gospel according to Luke
 !Luke 17:11-19
-It came to pass, as Jesus went to Jerusalem, that He passed through the midst of Samaria and Galilee. And, as He entered into a certain village, there met Him ten men that were lepers. And so on.
+At that time: As Jesus was going to Jerusalem, He passed through the midst of Samaria and Galilee. And as He entered into a certain town, there met Him ten men that were lepers. And the rest.
 _
-Homily by St. Augustine, Bishop of Hippo
-!Bk. ii, Gospel Questions, ch. 40
-The ten lepers “lifted up their voices and said: Jesus, Master, have mercy on us. And when He saw them, He said unto them: Go, show yourselves unto the Priests. And it came to pass that, as they went, they were cleansed.” Question: why did the Lord send them unto the Priests, that, as they went, they might be cleansed? Lepers were the only class among those upon whose bodies He worked mercy, whom we find that He sent unto the Priests. It is written in another place that He said to a leper whom He had cleansed: “Go, and show thyself to the Priest, and offer for thy cleansing according as Moses commanded, for a testimony unto them” (Luke v. 14, Lev. xiv. seq.) We ask then, of what leprosy was a type, whereof they that were ridded were called, not “healed,” but “cleansed.” It is a disease which doth first appear in the skin, but destroyeth not immediately the strength, nor the use of feeling and the limbs.
+Homily of Saint Augustine the Bishop, Bishop of Hippo
+!Book 2 of Questions on the Gospels, chapter 40
+Concerning the ten lepers, whom the Lord so cleansed when He said: "Go, show yourselves to the priests.” It may be asked: why did the Lord send them unto the Priests, that, as they went, they might be cleansed? For of none of those [classes of people] to whom He bestowed these bodily benefits [cures] is He found to have sent any to the Priests, except the lepers. For He had also cleansed that other from leprosy, to whom He said: Go, show thyself to the priests, and offer for thyself the sacrifice which Moses commanded, for a testimony unto them." (Luke v. 14, Lev. xiv. seq.) We ask then, of what leprosy was a type, whereof they that were ridded were called, not “healed,” but “cleansed.” It is indeed a defect of colour [in the skin], not of health, or [immediately] of the integrity of the senses and of the members [at first].
 
 [Lectio8]
-The lepers, therefore, we may not absurdly suppose such to be figured as have not the knowledge of the true faith, but do show forth diverse-coloured teachings of error. They hide not their witlessness, but do use all such wit as they have to make it manifest, and proclaim it in high-sounding phrases. There is no false doctrine but hath some truth mixed up with it. A man's discourse then, with some truths in it unequally mingled with falsehoods, and all confounded in one mass, is like to the body of one that is stricken with leprosy, whereon all manner of foul colours do appear in this and that place along with the true colour of skin.
+Lepers therefore can not unreasonably be understood as those who, not having the knowledge of the true faith, profess various doctrines of error. For they do not hide their ignorance; but they bring it forth into the light as the highest skill, and display it by the boastfulness of speech. Moreover there is no false doctrine which doth not mingle some true things therewith. True things therefore mingled in disorder with false, appearing in one disputation or narration of a man, as in the colour of one body, signify leprosy, as it were varying and staining with true and false [colours in the skin].
 
 [Lectio9]
-Such men as these are banished out of the walls of the Church, to the end that haply when they stand afar off they may lift up their voices and cry to Christ for pardon, just as those ten men that were lepers, which stood afar off, outside the village, lifted up their voices and said “Jesus, Master, have mercy on us.” That they styled Him Master, by which title I know not if any besought the Lord for bodily healing, I think doth sufficiently show that leprosy signifieth false doctrine, whereof the Good Master doth cleanse us.
+But these are so to be avoided by the Church that, if it can be done, being removed farther off, they may with a great cry call upon Christ; as these ten stood afar off, and lifted up their voice, saying: Jesus, Master, have mercy on us. For also that they call Him Master, by which name I know not whether anyone hath called upon the Lord for a bodily cure; I think sufficiently signifies that leprosy is false doctrine, which a good Master wipeth away.
 &teDeum
 
 [Ant 2]
-As Jesus passed through * a certain village, there met Him ten men that were lepers, which stood afar off; and they lifted up their voices, and said: “Jesus, Master, have mercy on us.”
+As Jesus entered * into a certain town, there met Him ten men that were lepers, who stood afar off and lifted up their voice, saying: Jesus, Master, have mercy on us.
 
 [Ant 3_]
-And one of them, * when he saw that he was healed, turned back, and with a loud voice glorified God, alleluia.
+But one * of them, when he saw that he was made clean, went back with a loud voice glorifying God, alleluia.
