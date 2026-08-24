@@ -1,34 +1,34 @@
 [Officium]
-St. Bartholomew the Apostle
+Saint Bartholomew the Apostle
 
 [Oratio]
-O Almighty and everlasting God, Who hast given unto us this day to be a day worshipful, and holy, and joyful, because of the Feast of thy blessed Apostle Bartholomew, grant, we beseech thee, unto thy Church both to love that which he believed, and to preach that which he taught.
+Almighty everlasting God, who hast granted the venerable and holy joy of this day in the festival of Thy blessed Apostle Bartholomew: grant unto Thy Church, we beseech Thee, both to love what he believed, and to preach what he taught.
 $Per Dominum
 
 [Lectio4]
-The Apostle Bartholomew was a Galilean. In the division of the world among the Apostles it fell to his lot to preach the Gospel of Jesus Christ in hither India. He went thither and preached to those nations the coming of the Lord Jesus, according to the Gospel of St. Matthew. When he had turned many in that province to Jesus Christ, and had endured many toils and woes, he came into the Greater Armenia.
+Bartholomew the Apostle, a Galilean, when he had gone into nearer India, which had fallen to him by lot in the distribution of the world for the preaching of the Gospel of Jesus Christ, preached unto those nations the coming of the Lord Jesus according to the Gospel of Saint Matthew. But when in that province he had converted very many unto Jesus Christ, having endured many labours and calamities, he came into greater Armenia.
 
 [Lectio5]
-There he brought to the Christian faith Polymius the King, and his wife, and likewise the inhabitants of twelve cities. This stirred up a great hatred against him among the priests of that nation. They so inflamed against the Apostle Astyages the brother of King Polymius, that he savagely ordered Bartholomew to be flayed alive and beheaded; under the which martyrdom he gave up his soul to God.
+There he brought Polymius the king and his wife, and moreover twelve cities, unto the Christian faith. Which thing stirred up great envy against him among the priests of that nation. For they so inflamed Astyages, the brother of king Polymius, against the Apostle, that he commanded the skin to be cruelly torn from the living Bartholomew, and his head to be cut off; in which martyrdom he rendered up his soul unto God.
 
 [Lectio6_]
-His body was buried at the town of Albanopolis in the Greater Armenia, where he had suffered. It was afterwards taken to the Island of Lipari, and thence carried to Benevento. Lastly, the Emperor Otto III brought it to Rome, where it was laid in the Church dedicated to God in his name on the Island in the Tiber. 
+His body was buried at Albanum, which is a city of greater Armenia, where he had suffered. Which afterwards was carried to the island of Lipara, and thence translated to Beneventum. At last it was brought to Rome by the Emperor Otto the Third, and was placed in the island of the Tiber, in the church dedicated unto God under his name.
 
 [Lectio6_T]
-His Feast is kept at Rome upon the 25th day of August, and is celebrated by great crowds of people at the Church above mentioned, during the eight days following.
+At Rome the feast day is kept on the eighth of the Kalends of September [25th of August], and for the eight following days that basilica is celebrated with a great throng of the people.
 
 [Lectio7]
 From the Holy Gospel according to Luke
 !Luke 6:12-19
-At that time Jesus went out into a mountain to pray, and continued all night in prayer to God. And when it was day, He called unto Him His disciples. And so on.
+At that time: Jesus went out into a mountain to pray, and He passed the whole night in the prayer of God. And when day was come, He called His disciples. And the rest.
 _
-Homily by St. Ambrose, Bishop (of Milan.)
-!Bk. v. Comment. on Luke 6
-All they who go up into the mountain are the great and the aspiring. It is not to every man that the Prophet saith: O thou that tellest good tidings to Zion, get thee up into the high mountain, Thou that tellest good tidings to Jerusalem, lift up thy voice with strength. (Isa. xl. 9.) Not with bodily feet, but by high deeds get thee up into this mountain, and follow Christ, that thou mayest be a mountain thyself. Therefore it is that thou findest in the Gospel that none but His disciples went up into the mountain with the Lord. The Lord therefore prayeth, not to entreat anything for Himself, but to obtain somewhat for me. For, albeit the Father had given the Son power over all flesh, that He might give eternal life to as many as He had given Him, (John xvii. 2,) the Son Himself, being found in fashion as a man, (Phil. ii. 8,) thinketh well to pray the Father (John xiv. 16) on our behalf, inasmuch as He is our Advocate with the Father, (1 John ii. 1.)
+Homily of Saint Ambrose the Bishop (of Milan.)
+!Book 5 of the Commentary on Luke, chapter 6, after the beginning
+All who are great, all who are sublime, ascend the mountain. For the prophet does not say to just anyone: “Get thee up into the high mountain, thou that bringest good tidings to Sion: lift up thy voice with strength, thou that bringest good tidings to Jerusalem.” Ascend thou into this mountain not with bodily footsteps, but with more sublime deeds, and follow Christ, that thou thyself mayest be a mountain: for “mountains are round about Him.” Wherefore thou wilt find in the Gospel that only the disciples ascended the mountain with the Lord. The Lord prays, therefore, not to entreat for Himself, but to obtain for me. For although the Father has placed all things in the power of the Son; yet the Son, in order to fulfill the form of man, considers that the Father must be entreated for us, because He is our advocate.
 
 [Lectio8]
-And continued all night in prayer to God. Herein, O Christian, a pattern is set before thee, an example is given thee, after the which thou oughtest to aspire. What doth it not behove thee to do for thy salvation, when Christ spent an whole night in prayer for the same What doth it become thee to do, when thou willest some good work, when Christ prayed before He sent forth His Apostles He prayed first, and He prayed alone. Neither, unless I am mistaken, do we anywhere find that He ever joined in prayer with His disciples. He ever prayed alone. Human desires cannot grasp the counsel of God, nor can any man, however spiritually minded, share the thoughts of God.
+“And He was,” it says, “spending the night in the prayer of God.” A model is given to thee, O Christian, a form is prescribed which thou oughtest to imitate. For what is it fitting for thee to do for thy salvation, when Christ spends the whole night in prayer for thee? What is it fitting for thee to do, when thou wishest to undertake some duty of piety, when Christ, about to send the Apostles, prayed first, and prayed alone? Nor anywhere else, if I am not mistaken, is He found to have prayed with the Apostles; everywhere He entreats alone. For the counsel of God is not contained by human desires, nor can anyone be a partaker of the interior things of Christ.
 
 [Lectio9]
-The Evangelist continueth thus: And when it was day, He called unto Him His disciples and of them He chose twelve whom He sent forth to help the salvation of men by sowing the seed of the faith throughout the whole world. Consider here the counsel of heaven. He chose out for His mission men, not wise, nor rich, nor noble, but fishermen and publicans, lest He should seem to have converted any to His grace by skill, or bought them with money, or drawn them by the power and authority of greatness, and the simple force of the truth, not the charms of argument, might have the victory.
+“He called,” it says, “His disciples, and He chose twelve of them,” whom He might destine as sowers of the faith to propagate the help of human salvation throughout the world. At the same time observe the heavenly counsel: He did not choose any wise men, nor rich men, nor nobles to direct, but fishermen and publicans; lest He should seem to have won them over by worldly prudence, or bought them with riches, or drawn any to His grace by the authority of power and nobility; that the reason of Truth, not the charms of disputation, might prevail.
 &teDeum
