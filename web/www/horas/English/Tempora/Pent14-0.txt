@@ -1,28 +1,28 @@
 [Officium]
-Dominica XIV Post Pentecosten
+Fourteenth Sunday after Pentecost
 
 [Oratio]
-Keep, we beseech thee, O Lord, thy Church with thy perpetual mercy, and because the frailty of man without thee cannot but fall, keep us ever by thy help from all things hurtful, and lead us to all things profitable to our salvation.
+Keep, we beseech Thee, O Lord, Thy Church with perpetual propitiation: and because without Thee human mortality slideth, by Thy helps let it always both be drawn away from things hurtful and be directed unto things salutary.
 $Per Dominum
 
 [Lectio7]
 From the Holy Gospel according to Matthew
 !Matt 6:24-33
-At that time, Jesus said unto His disciples: No man can serve two masters. And so on.
+At that time: Jesus said to His disciples: No man can serve two masters. And the rest.
 _
-Homily by St. Augustine, Bishop of Hippo.
-!Bk. ii. on the Lord's Sermon on the Mount, ch. xiv.
-“No man can serve two masters,” and this is further explained “for either he will hate the one, and love the other; or else he will hold to the one, and despise the other.” These words we ought carefully to weigh, for the Lord showeth straightway who be the two masters whom we have choice of: “Ye cannot serve God and Mammon.” Mammon is a term which the Hebrews are said to use for riches. It is also a Carthaginian word for the Punic for “gain” is “mammon.”
+Homily of Saint Augustine the Bishop
+!Book 2 on the Sermon of the Lord on the Mount, chapter 14
+​“No one can serve two masters.” To this very intention must be referred what he subsequently expounds, saying: “For either he will hate the one, and love the other; or he will endure the one, and despise the other.” Which words are to be diligently considered: for he next shows who the two masters are, when he says: “You cannot serve God and mammon.” Among the Hebrews, riches are said to be called mammon. The Punic name also agrees; for in Punic, gain is called mammon.
 
 [Lectio8]
-He which serveth mammon, serveth that evil one who hath perversely chosen to be lord of these earthly things, and is called by the Lord “the prince of this world.” (John xiv. 30.) Of these two masters, either a man will hate the one and love the other, that is God or he will hold to the one and despise the other. He which serveth mammon holdeth to an hard and destroying master, for he is led captive by his lust, and sold a slave to the devil, and him loveth no man is there any man that loveth the devil And yet there be that hold to him.
+But he who serves mammon certainly serves him who, set over these earthly things by the merit of his own perversity, is called by the Lord the magistrate of this world. For either a man will hate the one, and love the other, that is, God; or he will endure the one, and despise the other. For whoever serves mammon will endure a hard and pernicious master; for, entangled by his own greed, he is subjected to the devil [as a slave], and does not love him. For who is there who loves the devil? Yet nevertheless he endures him.
 
 [Lectio9]
-“Therefore, I say unto you, Take no thought for your life, what ye shall eat, or what ye shall drink; nor yet for your body, what ye shall put on”, lest, albeit such things are not idle, but needful to be sought after, yet the seeking for things even needful should divide the heart and our intention should be corrupted when we do something as it were mercifully that is, lest, when we would seem to be seeking another's good, it should be profit to ourselves, rather than benefit to him, that we seek and therefore we seem not to ourselves to sin, because we would seek things not idle, but needful.
+Therefore,” he says, “I say to you, be not solicitous for your soul what you shall eat, nor for your body what you shall put on”; lest perhaps, although superfluous things are no longer sought, the heart should become divided on account of these very necessities, and our intention be twisted toward acquiring them, when we do something as if acting mercifully: that is, so that when we wish to seem to be providing for someone, we look to our own profit therein rather than to his advantage; and thereby we do not seem to ourselves to sin, because the things we wish to obtain are not superfluous, but necessary.
 &teDeum
 
 [Ant 2]
-Take no thought, saying: What shall we eat? * or: What shall we drink? For your Father knoweth what things ye have need of, alleluia.
+Be not solicitous * saying: What shall we eat, or what shall we drink? for your Father knoweth what is necessary for you, alleluia.
 
 [Ant 3]
-Seek ye first the kingdom of God * and His righteousness, and all these things shall be added unto you, alleluia.
+Seek ye first * the kingdom of God and His justice, and all these things shall be added unto you, alleluia.
