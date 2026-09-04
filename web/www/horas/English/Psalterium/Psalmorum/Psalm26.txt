@@ -1,20 +1,21 @@
-26:1 The Lord is my light and my salvation, * whom shall I fear?
-26:1 The Lord is the protector of my life: * of whom shall I be afraid?
-26:2 Whilst the wicked draw near against me, * to eat my flesh.
-26:2 My enemies that trouble me, * have themselves been weakened, and have fallen.
-26:3 If armies in camp should stand together against me, * my heart shall not fear.
-26:3 If a battle should rise up against me, * in this will I be confident.
-26:4 One thing I have asked of the Lord, this will I seek after; * that I may dwell in the house of the Lord all the days of my life.
-26:4 That I may see the delight of the Lord, * and may visit his temple.
-26:5 For he hath hidden me in his tabernacle; * in the day of evils, he hath protected me in the secret place of his tabernacle.
-26:6 He hath exalted me upon a rock: * and now he hath lifted up my head above my enemies.
-26:6 I have gone round, and have offered up in his tabernacle a sacrifice of jubilation: * I will sing, and recite a psalm to the Lord.
-26:7 Hear, O Lord, my voice, with which I have cried to thee: * have mercy on me and hear me.
-26:8 My heart hath said to thee: My face hath sought thee: * thy face, O Lord, will I still seek.
-26:9 Turn not away thy face from me; * decline not in thy wrath from thy servant.
-26:9 Be thou my helper, * forsake me not; do not thou despise me, O God my Saviour.
-26:10 For my father and my mother have left me: * but the Lord hath taken me up.
-26:11 Set me, O Lord, a law in thy way, * and guide me in the right path, because of my enemies.
-26:12 Deliver me not over to the will of them that trouble me; * for unjust witnesses have risen up against me; and iniquity hath lied to itself.
-26:13 I believe to see the good things of the Lord * in the land of the living.
-26:14 Expect the Lord, do manfully, * and let thy heart take courage, and wait thou for the Lord.
+26:0 The psalm of David before he was anointed.
+26:1 The Lord is my light and my saviour; whom then shall I fear?
+26:1 The Lord is the defender of my life; of whom then shall I be afraid?
+26:2 When the wicked draw nigh against me to eat my flesh,
+26:2 They that afflict me and are mine enemies, they themselves became weak and they fell.
+26:3 Though a host should array itself against me, my heart shall not be afraid;
+26:3 Though war should rise up against me, in this have I hoped.
+26:4 One thing have I asked of the Lord, this will I seek after: That I may dwell in the house of the Lord all the days of my life,
+26:4 That I may behold the delight of the Lord, and that I may visit His holy temple.
+26:5 For He hid me in His tabernacle in the day of my troubles, He sheltered me in the secret place of His tabernacle,
+26:6 Upon a rock hath He exalted me. And now, behold, He exalted my head above mine enemies.
+26:6 I went round about and I sacrificed in His tabernacle a sacrifice of praise and jubilation; I will sing and I will chant unto the Lord.
+26:7 Hearken, O Lord, unto my voice, wherewith I cried; have mercy on me, and hearken unto me.
+26:8 My heart said unto Thee: I will seek the Lord. My face hath sought after Thee; Thy face, O Lord, will I seek.
+26:9 Turn not Thy face from me and turn not away in wrath from Thy servant.
+26:9 Be Thou my helper; cast me not utterly away, and forsake me not, O God my Saviour.
+26:10 For my father and my mother have forsaken me, but the Lord hath taken me to Himself.
+26:11 Set me a law, O Lord, in Thy way, and lead me in the right path because of mine enemies.
+26:12 Deliver me not over unto the souls of them that afflict me, for unjust witnesses are risen up against me, and injustice hath lied to itself.
+26:13 I believe that I shall see the good things of the Lord in the land of the living.
+26:14 Wait on the Lord; be thou manful, and let thy heart be strengthened, and wait on the Lord.
