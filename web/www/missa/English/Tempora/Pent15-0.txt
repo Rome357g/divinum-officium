@@ -1,27 +1,27 @@
 [Officium]
-Dominica XV Post Pentecosten
+Fifteenth Sunday after Pentecost
 
 [Introitus]
 !Ps 85:1-3
-v. Incline Your ear, O Lord; answer me; save Your servant, O my God, who trusts in You. Have pity on me, O Lord, for to You I call all the day.
+v. Incline Thine ear, O Lord, and hear me: save Thy servant, O my God, that trusteth in Thee: have mercy on me, O Lord, for I have cried to Thee all the day.
 !Ps 85:4
-Gladden the soul of Your servant, for to You, O Lord, I lift up my soul.
+Give joy to the soul of Thy servant, for to Thee, O Lord, I have lifted up my soul.
 &Gloria
-v. Incline Your ear, O Lord; answer me; save Your servant, O my God, who trusts in You. Have pity on me, O Lord, for to You I call all the day.
+v. Incline Thine ear, O Lord, and hear me: save Thy servant, O my God, that trusteth in Thee: have mercy on me, O Lord, for I have cried to Thee all the day.
 
 [Oratio]
-May Your abiding mercy, O Lord, cleanse and strengthen Your Church, and, since without You she cannot exist in safety, let her be ever guided by Your grace.
+May Thy continued mercy cleanse and defend Thy Church, O Lord: and because without Thee she cannot remain safe; may she ever be governed by Thy gift.
 $Per Dominum
 
 [Lectio]
-Lesson from the letter of St. Paul the Apostle to the Galatians
+Lesson from the Epistle of blessed Paul the Apostle to the Galatians.
 !Gal 5:25-26; 6:1-10
-Brethren: If we live by the Spirit, by the Spirit let us also walk. Let us not become desirous of vainglory, provoking one another, envying one another. Brethren, even if a person is caught doing something wrong, you who are spiritual instruct such a one in a spirit of meekness, considering yourself, lest you also be tempted. Bear one another’s burdens, and so you will fulfill the law of Christ. For if anyone thinks himself to be something, whereas he is nothing, he deceives himself. But let everyone test his own work, and so he will have glory in himself only, and not in comparison with another. For each one will bear his own burden. And let him who is instructed in the word share all good things with his teacher. Be not deceived, God is not mocked. For what a man sows in the flesh, from the flesh also will reap corruption. But he who sows in the spirit, from the spirit will reap life everlasting. And in doing good let us not grow tired; for in due time we shall reap if we do not relax. Therefore, while we have time, let us do good to all men, but especially to those who are of the household of faith.
+Brethren: If we live in the Spirit, let us also walk in the Spirit. Let us not be made desirous of vain glory, provoking one another, envying one another. Brethren, and if a man be overtaken in any fault, you, who are spiritual, instruct such a one in the spirit of meekness, considering thyself, lest thou also be tempted. Bear ye one another’s burdens: and so you shall fulfil the law of Christ. For if any man think himself to be something, whereas he is nothing, he deceiveth himself. But let every one prove his own work, and so he shall have glory in himself only, and not in another. For every one shall bear his own burden. And let him that is instructed in the word, communicate to him that instructeth him, in all good things. Be not deceived, God is not mocked. For what things a man shall sow, those also shall he reap. For he that soweth in his flesh, of the flesh also shall reap corruption. But he that soweth in the spirit, of the spirit shall reap life everlasting. And in doing good, let us not fail. For in due time we shall reap, not failing. Therefore, whilst we have time, let us work good to all men, but especially to those who are of the household of the faith.
 
 [Graduale]
 !Ps 91:2-3
-It is good to give thanks to the Lord, to sing to Your name, Most High.
-V. To proclaim Your kindness at dawn and Your faithfulness throughout the night. Alleluia, alleluia.
+It is good to give praise to the Lord: and to sing to Thy name, O most High.
+V. To shew forth Thy mercy in the morning, and Thy truth in the night. Alleluia, alleluia.
 !Ps 94:3
 V. For the Lord is a great God, and a great King over all the earth. Alleluia.
 
@@ -32,10 +32,10 @@ At that time, Jesus went to a town called Naim; and His disciples and a large cr
 
 [Offertorium]
 !Ps 39:2-4
-I have waited, waited for the Lord, and He stooped toward me, and heard my cry. And He put a new song into my mouth, a hymn to our God.
+With expectation I have waited for the Lord, and He had regard to me: and He heard my prayer, and He put a new canticle into my mouth, a song to our God.
 
 [Secreta]
-May Your sacrament, O Lord, always keep us and guard us from the assaults of the devil.
+May Thy sacraments, O Lord, keep us, and ever defend us against the assaults of the devil.
 $Per Dominum
 
 [Communio]
@@ -43,5 +43,5 @@ $Per Dominum
 The bread that I will give is My Flesh for the life of the world.
 
 [Postcommunio]
-May the working of the heavenly gift, O Lord, so possess us, mind and body, that the action of the sacrament, rather than our senses, may continually prevail in us.
+May the working of the heavenly gift, we beseech Thee, O Lord, possess our minds and bodies: that not our own sense, but the effect thereof may continually prevent us.
 $Per Dominum
