@@ -6,6 +6,7 @@
 
 services:
   web:
+    restart: unless-stopped
     build:
       context: ./
       dockerfile: Dockerfile
@@ -13,3 +14,7 @@ services:
       - ./web:/var/www/web:Z
     ports:
       - "8080:8080"
+    deploy:
+      resources:
+        limits:
+          memory: 2G
