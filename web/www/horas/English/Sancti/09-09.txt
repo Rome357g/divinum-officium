@@ -1,11 +1,11 @@
 [Officium]
-S. Gorgonius, Martyr
+Saint Gorgonius, Martyr
 
 [Oratio]
-O Lord, may thine holy servant Gorgonius gladden us by his prayers, and make this his blessed Festival to be unto us indeed a day of rejoicing.
+May Thy holy Gorgonius, O Lord, gladden us by his intercession: and make us rejoice in the pious solemnity.
 $Per Dominum
 
 [Lectio93]
-!Commemoratio for the Holy Martyr Gorgonitis.
-Gorgonius was a native of Nicomedia, and one of the chamberlains of the Emperor Diocletian. He, with the help of a fellow-chamberlain named Dorotheus, brought all the other chamber-servants to believe in Christ. Both of them one day saw a martyr hideously tortured in the presence of Diocletian, and the example of his testimony roused them both up to desire the same, and they both said: Why, O Emperor, dost thou punish this man only, by condemning an opinion which we share with him? His belief is our belief. Our will is the same. The Emperor thereupon ordered them to be bound and scourged till their bodies were perfectly flayed, and a mixture of vinegar and salt poured into the wounds. Soon after he commanded them to be bound again and grilled on bars over hot coals. Finally, after a variety of tortures, they were hanged. The body of the holy Gorgonius was some time brought to Rome, and buried between the two laurel-trees upon the Latin Way, but, afterwards, during the Pontificate of Gregory IV., it was brought into the Church of the Prince of the Apostles.
+!Commemoration of Saint Gorgonius, Martyr
+Gorgonius, born at Nicomedia, chamberlain of the emperor Diocletian, with the help of his colleague Dorotheus, brought all the other ministers of the chamber unto the faith of Christ. But both of them, when on a certain day they had seen a Martyr most bitterly tortured before Diocletian, were inflamed by his example with the love of martyrdom. And so this cry broke forth from both of them: Why, O Emperor, dost thou punish this man only, by condemning an opinion which we share with him? His belief is our belief. Our will is the same. Them therefore the emperor ordered to be bound and cut to pieces with scourges, so that the skin was broken over the whole body, and vinegar mixed with salt to be poured into the wounds; presently he commanded them, being bound upon a gridiron, to have the force of glowing coals placed under them. At length, variously tortured, they were put to death by hanging. And the body of holy Gorgonius was at some time brought to Rome, buried between the two Laurels on the Latin Way, and afterwards translated by the supreme Pontiff Gregory the Fourth into the basilica of the Prince of the Apostles.
 &teDeum
