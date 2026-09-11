@@ -1,17 +1,18 @@
 [Rank]
-Third day of the octave of the Nativity of our Lady;;Semiduplex;;2;;ex Sancti/09-08
+Third day within the Octave of the Nativity of the Blessed Virgin Mary;;Semiduplex;;2;;ex Sancti/09-08
 
 [Lectio7]
-Lectio sancti Evangelii secundum Matthaeum
+A reading from the holy Gospel according to Matthew.  
 !Matt 1:1-17
-Liber generationis Jesu Christi filii David, filii Abraham. Abraham genuit Isaac. Isaac autem genuit Jacob. Et reliqua.
+The book of the generation of Jesus Christ, the son of David, the son of Abraham. Abraham begot Isaac. And Isaac begot Jacob. And the rest.  
 _
-!De Homilia S.Hieronymi presb.
-Et post transmigrationem Babylonis Iechonias genuit Salathiel. Si uoluerimus Iechoniam in fine primæ tessaradecadis ponere, in sequenti non erunt quattuordecim, sed tredecim. Sciamus igitur Iechoniam priorem ipsum esse quem et Ioacim, secundum autem filium non patrem. Quorum prior describitur; quod scriptorum uitio et longitudine temporum apud Græcos Latinosque confusus est.
+!
+From the Homily of Saint Jerome the Priest  
+And after the transmigration of Babylon Jechonias begot Salathiel. If we should wish to place Jechonias at the end of the first fourteen, in the following there will not be fourteen, but thirteen. Let us therefore know that the former Jechonias is the same as Joacim, but the second is the son, not the father. Of whom the former is described; which by the fault of the scribes and the length of times has been confused among the Greeks and the Latins.
 
 [Lectio8]
-Iacob autem genuit Ioseph. Hunc locum obiecit nobis Iulianus Augustus dissonantiæ evangelistarum, cur euangelista Matthæus Ioseph dixerit filium Iacob, et Lucas eum filium appellarit Heli, non intelligens consuetudinem scripturarum, quod alter secundum naturam, alter secundum legem ei pater sit. Scimus enim hoc per Moysem deo iubente præceptum, ut si frater aut propinquus absque liberis mortuus fuerit, alius ejus frater accipiat uxorem ad suscitandum semen fratris, uel propinqui sui. Ioseph uirum Mariæ, cum utrum audieris, suspitio tibi non subeat nuptiarum, sed recordare consuetudinis scripturarum, quod sponsi uiri, et sponsæ uocentur uxores.
+And Jacob begot Joseph. This place Julian Augustus objected to us of the dissonance of the Evangelists, why the Evangelist Matthew said that Joseph was the son of Jacob, and Luke called him the son of Heli, not understanding the custom of the Scriptures, that one is father to him according to nature, the other according to the law. For we know that this was commanded by Moses, God ordering, that if a brother or kinsman should die without children, another brother of his should take the wife to raise up seed to the brother or kinsman. Joseph the husband of Mary: when thou hearest either, let not the suspicion of marriage arise in thee, but remember the custom of the Scriptures, that the betrothed are called husbands, and the betrothed wives.
 
 [Lectio9]
-Et a transmigratione Babylonis usque ad Christum generationes quattuordecim. Numera a Iechonia usque ad Ioseph, et inuenies generationes tredecim. Quartadecima ergo generatio in ipsum Christum reputabitur. Christi autem generatio sic erit. Quærat diligens lector, et dicat: Cum Ioseph non sit pater domini salvatoris, quid pertinet ad dominum generationis ordo deductus usque ad Ioseph? Cui respondebimus primum, non esse consuetudinis scripturarum, ut mulierum in generationis ordo texatur: deinde, ex una tribu fuisse Ioseph et Mariam, unde ex lege eam accipere cogebatur ut propinquam:
+And from the transmigration of Babylon unto Christ fourteen generations. Number from Jechonias unto Joseph, and thou wilt find thirteen generations. The fourteenth generation therefore shall be counted in Christ Himself. Now the generation of Christ was in this wise. Let the diligent reader seek and say: Since Joseph is not the father of the Lord Saviour, what does the order of generation deduced unto Joseph pertain to the Lord? To whom we shall answer first, that it is not the custom of the Scriptures that the order of women be woven in the generation: next, that Joseph and Mary were of one tribe, whence by the law he was compelled to take her as a kinswoman:
 &teDeum
