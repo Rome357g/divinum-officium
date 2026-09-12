@@ -1,18 +1,29 @@
 [Rank]
 Fifth Day Within the Octave of the Nativity of the Blessed Virgin Mary;;Semiduplex;;2;;ex Sancti/09-08
 
+[Lectio4]
+Sermon of Saint John Chrysostom.
+!From Metaphrastes.
+The Son of God did not choose for Himself a rich or wealthy woman as mother, but that blessed virgin whose soul was adorned with virtues. For since the blessed Mary preserved chastity above all human nature, therefore she conceived Christ the Lord in her womb. Running therefore unto this most holy virgin and Mother of God, let us obtain the benefit of her patronage. Therefore, whoever ye are that are virgins, take refuge with the Mother of the Lord. For she will by her patronage preserve for you a most beautiful, most precious, and incorruptible possession.
+
+[Lectio5]
+A great miracle indeed, most beloved brethren, was the blessed ever-virgin Mary. For what greater or more illustrious than she has ever been found at any time, or can ever be found? She alone surpassed heaven and earth in greatness. What is holier than she? Not Prophets, not Apostles, not Martyrs, not Patriarchs, not Angels, not Thrones, not Dominations, not Seraphim, not Cherubim, not finally anything else among created things visible or invisible, greater or more excellent can be found. She is both the handmaid of God and mother: both virgin and parent.
+
+[Lectio6]
+She is the mother of Him who was begotten by the Father before every beginning, whom Angels and men acknowledge as the Lord of all things. Wouldst thou know how much more excellent this virgin is than the heavenly powers? They stand with fear and trembling, veiling their faces: she offers to Him the human race whom she bore. Through her we also obtain the pardon of sins. Hail therefore, mother, heaven, maiden, virgin, throne, the ornament, glory and firmament of our Church, pray continually for us to Jesus thy Son and our Lord: that through thee we may find mercy in the day of judgment, and may obtain the good things that are laid up for them that love God, by the grace and kindness of our Lord Jesus Christ: with whom to the Father together with the Holy Ghost be glory, honour, and dominion now and always world without end. Amen.
+
 [Lectio7]
-From the Holy Gospel according to Matthew
+From the Homily of Saint Hilary the Bishop.
 !Matt 1:1-17
-The book of the generation of Jesus Christ, the Son of David, the son of Abraham. Abraham begat Isaac, and Isaac begat Jacob. And so on.
+The book of the generation of Jesus Christ, the son of David, the son of Abraham. Abraham begot Isaac. And Isaac begot Jacob. And the rest.
 _
 Homily by St. Hilary, Bishop (of Poitiers)
-!Comment. on Matth. i
-It mattereth nothing who is actually inserted in the genealogy, as long as the whole line are understood to proceed from one source. Hence, since Joseph and Mary were of the same family, and Joseph is shown to have been a descendant of Abraham, Mary is shown to have been the same. It was a rule of the Law that if a man died without children, his next brother should take his widow to wife, and the first son begotten of her was counted as the son of her first husband. And thus the inheritance was kept in the line of the first-born, since the descendants who inherited were always the sons of the first-born, in name, if not in fact.
+!Comment. on Matthew, chap. 1.
+It matters not who is placed in the number and order of the origin, provided that the family of all is understood to have begun from one. Therefore since Joseph and Mary are of the same tribe, while Joseph is shown to have proceeded from the race of Abraham, Mary also is taught to have proceeded. For this reason was preserved in the law, that if the head of a family should die without sons, a later brother of the same kinship should take the wife of the deceased, and should refer the sons he received to the family of him who had died: and so the order of succession should remain in the first-born, while their fathers who were born after them should be held either by name or by race.
 
 [Lectio8]
-The next thing is, that, since we have said that, according to the ordinary value of terms, this genealogy is inconsistent with itself both as regards number and order, we should produce some explanation of this phenomenon. It is not a trifle that the statements should be one thing and the facts another, since the summary is not in accordance with the details. From Abraham to David are counted fourteen generations, and from David until the carrying away into Babylon, are found in other books seventeen. But this is neither a falsehood nor a piece of carelessness. There are three generations passed by. Joram begat Ahaziah, and Ahaziah begat Joash, and Joash begat Amaziah, and Amaziah begat Uzziah. But in Matthew it is stated that Joram begat Uzziah, whereas they are separated from each other by three clear generations. This is so because the woman of whom Joram begat Ahaziah was a foreign heathen, namely (Athaliah, the daughter) of Ahab, and Jezebel his wife.
+The following point is, that since we have said that according to the truth of the facts the order of this generation is consistent neither in number nor in succession, the reason of this also should be brought forward. For it is no light cause that one thing should be in the narration, another should have been in the deeds: and one thing should be reported in the sum, but another held in the number. For from Abraham unto David fourteen generations are numbered: and from David unto the transmigration of Babylon in certain books seventeen are found. But in this there is no fault of falsehood or negligence. For three generations have been passed over. For Joram begot Ochozias, but Ochozias begot Joas, then Joas Amasias, but Amasias Ozias: and in Matthew it is written that Joram begot Ozias, though he is the fourth from him. This is so, because Joram begot Ochozias of a Gentile woman, namely of Achab, who had Jezabel to wife. 
 
 [Lectio9]
-It was declared by the Prophet that the descendants of Ahab should not sit upon the throne of Israel beyond the fourth generation. The stain of heathenism is therefore left out by omitting the three kings tainted therewith, and fourteen generations are counted to Mary, although they were actually in number seventeen, and this can seem no blunder to any that know that our Lord Jesus Christ hath not only that origin which He drew from Mary, but that in His bodily generation is comprehended a signification of His eternal generation.
+Finally through the prophet it is said that no one of the house of Achab should sit upon the royal throne of Israel except in the fourth generation. The stain of the Gentile family having therefore been purged, and the three rulers having been passed over, he is numbered in the fourth order of the following generations, and unto Mary fourteen generations are written, though in number seventeen are found; there can be no error for those who know that that is not the only origin of our Lord Jesus Christ which began from Mary: but that in the bodily procreation the significance of the eternal nativity is comprised.
 &teDeum
