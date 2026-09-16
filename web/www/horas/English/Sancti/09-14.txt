@@ -5,22 +5,22 @@ Exaltation of the Holy Cross;;Duplex majus;;4;;ex Sancti/05-03
 Exaltation of the Holy Cross;;Duplex II classis;;5.5;;ex Sancti/05-03
 
 [Oratio]
-O God, who dost gladden us this day by the yearly solemnity of the Exaltation of the Holy Cross: grant, we beseech Thee, that we who have known the mystery thereof on earth may merit the rewards of its redemption in heaven.
+O God, who makest us glad this day with the annual solemnity of the Exaltation of the holy Cross: grant, we beseech Thee; that we, who have known its mystery on earth, may merit the rewards of its redemption in heaven.
 $Per eumdem
 
 [Invit]
-Christ the King exalted for us upon the Cross, * Come, let us adore.
+Christ the King, exalted for us upon the Cross, * Come, let us adore.
 
 [Ant Matutinum]
-The noble wood * is exalted, the faith of Christ glows, while the Cross is venerated by all.;;1
+The noble tree * is exalted, the faith of Christ shineth brightly, while the Cross is venerated by all.;;1
 The Holy Cross * is lifted up by all kings, the royal sceptre is raised, upon which the Saviour triumphed.;;2
-O venerable Cross, * which didst bring salvation to the wretched, with what praises shall I extol thee, since thou hast prepared for us a heavenly life.;;3
-O victory of the Cross * and admirable sign, in the heavenly court make us to seize the triumph.;;4
-The punishment of deadly death * is condemned, while Christ upon the Cross destroyed the bonds of our crimes.;;10
-The King is exalted * into the air, when the noble trophy of the Cross is adored by all Christian people through the ages.;;20
+O venerable Cross, * which hast brought salvation to the wretched, with what heraldings shall I extol thee, since thou hast prepared for us heavenly life.;;3
+O victory of the Cross * and admirable sign, make us to grasp the triumph in the heavenly court.;;4
+The punishment of deadly death * is condemned, while Christ, upon the Cross, hath destroyed the bonds of our crimes.;;10
+The King is exalted * into the heavens, when the noble trophy of the Cross is adored by all Christians throughout the ages.;;20
 We adore Thee, O Christ, * and we bless Thee, because by Thy Cross Thou hast redeemed the world.;;95
-By the wood * we were made slaves, and by the holy Cross we have been set free: the fruit of the tree seduced us, the Son of God redeemed us, Alleluia.;;96
-Saviour of the world, * save us: who by Thy Cross and Blood hast redeemed us, help us, we beseech Thee, O our God.;;97
+Through the wood * we were made slaves, and through the holy Cross we have been delivered: the fruit of the tree seduced us, the Son of God hath redeemed us, alleluia.;;96
+O Savior of the world, * save us: Thou who by Thy Cross and blood hast redeemed us, help us, we beseech Thee, our God.;;97
 
 [Lectio1]
 From the Book of Numbers
@@ -38,7 +38,7 @@ At whose bites and the deaths of many they came to Moses, and said: We have sinn
 [Responsory3]
 R. This is the most worthy tree, set in the midst of paradise,
 * Upon which the Author of salvation by His own death overcame the death of all.
-V. The Cross, shining with exceeding beauty, which the emperor Heraclius recovered with longing soul.
+V. The Cross, shining with exceeding beauty, which the Emperor Heraclius recovered with longing soul.
 R. Upon which the Author of salvation by His own death overcame the death of all.
 &Gloria
 R. Upon which the Author of salvation by His own death overcame the death of all.
@@ -63,13 +63,13 @@ At that time: Jesus said to the multitudes of the Jews: Now is the judgment of t
 _
 Homily of Saint Leo the Pope
 !Sermon 8 on the Passion of the Lord, after the middle
-The Cross being exalted, beloved, let not only that appearance present itself to the sight of the mind which was before the eyes of the ungodly, to whom it was said by Moses: And thy life shall be as it were hanging before thine eyes, and thou shalt fear day and night, and shalt not believe thy life. For these could think of nothing in the crucified Lord except their own crime, having a fear, not that by which true faith is justified, but that by which an iniquitous conscience is tormented. But let our understanding, which the spirit of truth illuminates, receive with pure and free heart the glory of the Cross, radiating heaven and earth; and with interior vision see of what sort is that which the Lord, when He spoke of the nearness of His passion, said: Now is the judgment of the world, now shall the prince of this world be cast out. And I, if I be lifted up from the earth, will draw all things to Myself.
+Christ being exalted, most beloved, by the Cross, let not that appearance only occur to the sight of the mind, which was in the eyes of the impious, to whom it was said through Moses: And thy life shall be hanging before thine eyes, and thou shalt fear day and night, and thou shalt not believe thy life. For they could think nothing in the crucified Lord besides their own crime, having a fear, not by which true faith is justified, but by which an iniquitous conscience is tormented. But let our intellect, which the spirit of truth illuminates, receive the glory of the Cross, radiating in heaven and on earth, with a pure and free heart; and let it see with interior vision, what sort of thing it is which the Lord, when He spoke of the nearness of His passion, said: Now is the judgment of the world, now shall the prince of this world be cast out. And I, if I be exalted from the earth, will draw all things to Myself.
 
 [Lectio8]
-O admirable power of the Cross! O ineffable glory of the Passion, in which is both the tribunal of the Lord, and the judgment of the world, and the power of the Crucified! For Thou hast drawn all things to Thyself, O Lord, and when Thou hadst stretched out Thy hands all the day to a people that believeth not and contradicteth Thee, the whole world received the sense of confessing Thy majesty. Thou hast drawn all things to Thyself, O Lord, when for the execration of the Jewish crime all the elements put forth one sentence; when, the luminaries of heaven being darkened and the day turned into night, the earth also was shaken with unwonted motions, and all creation denied itself to the use of the ungodly. Thou hast drawn all things to Thyself, O Lord, because, the veil of the temple being rent, the Holy of Holies withdrew from the unworthy priests; that the figure might be turned into truth, prophecy into manifestation, and the law into the Gospel.
+O admirable power of the Cross! O ineffable glory of the Passion, in which is both the tribunal of the Lord, and the judgment of the world, and the power of the Crucified! For Thou hast drawn, O Lord, all things to Thyself, and when Thou hadst stretched forth Thy hands all the day to an unbelieving and contradicting people, the whole world received the sense of confessing Thy majesty to Thee. Thou hast drawn, O Lord, all things to Thyself, when in execration of the Jewish crime, all the elements uttered one sentence; when, the luminaries of heaven being obscured and the day turned into night, the earth also was shaken by unusual motions, and all creation denied itself to be further used by the impious [Jews]. Thou hast drawn, O Lord, all things to Thyself, since, the veil of the temple being rent, the Holy of holies departed from the unworthy high priests; that figure might be turned into truth, prophecy into manifestation, and the law into the Gospel.
 
 [Lectio9]
-Thou hast drawn all things to Thyself, O Lord, that what was covered in one temple of Judaea with shadowed significations, the devotion of all nations everywhere might celebrate in a full and open sacrament. For now also is the order of levites clearer, and the dignity of elders ampler, and the unction of priests more sacred: because Thy Cross is the fountain of all blessings, the cause of all graces; through which to those that believe is given strength from weakness, glory from reproach, life from death. Now also, the variety of carnal sacrifices having ceased, one oblation of Thy Body and Blood fills up all the differences of victims: because Thou art the true Lamb of God, who takest away the sins of the world; and so in Thyself Thou perfectest all mysteries, that as there is one sacrifice for every victim, so there is one kingdom from every nation.
+Thou hast drawn, O Lord, all things to Thyself, that, what in the one temple of Judea was covered by shadowed significations, the devotion of all nations everywhere might celebrate in a full and open sacrament. For now both the order of Levites is more clear, and the dignity of the elders is more ample, and the anointing of the priests is more sacred: because Thy Cross is the fount of all blessings, it is the cause of all graces; through which unto the believing is given virtue out of infirmity, glory out of reproach, life out of death. Now also, the variety of carnal sacrifices ceasing, the one oblation of Thy body and blood fulfills all the differences of victims: since Thou art the true Lamb of God, who takest away the sins of the world; and Thou dost so perfect all mysteries in Thyself, that as there is one sacrifice for every victim, so out of every nation there may be one kingdom.
 &teDeum
 
 [Versum 0] 
