@@ -4,6 +4,10 @@ Saints Cornelius, Pope, and Cyprian, Bishop, Martyrs
 [Name]
 Cornelius and Cyprian
 
+[Oratio]
+May the feast of the blessed Martyrs and Bishops Cornelius and Cyprian, protect us, O Lord, we beseech You, and may their holy prayer recommend us unto You.
+$Per Dominum
+
 [Lectio4]
 Cornelius, a Roman, while holding the pontificate under the Emperors Gallus and Volusianus, together with Lucina, a most holy woman, transferred the bodies of the Apostles Peter and Paul from the catacombs to a more convenient place; and Lucina placed the body of Paul in her own estate on the Ostian Way, near that place where he had been struck with the sword; Cornelius deposited the body of the Prince of the Apostles not far from thence, where he had been crucified. When this was reported to the emperors, and that through the authority of the Pontiff many were becoming Christians, he is sent into exile to Centumcellae (Civitavecchia); where Saint Cyprian, bishop of Carthage, consoled him by letters.
 
