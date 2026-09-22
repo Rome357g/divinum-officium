@@ -1,14 +1,20 @@
 [Officium]
-In Vigilia S. Matthew Apostle
+On the Vigil of Saint Matthew the Apostle  
 
 [Name]
 Matthew
 
 [Lectio1_]
-Lesson from the Gospel of St. Luke
+A reading from the holy Gospel according to Luke
 !Luke 5:27-32
-At that time, Jesus saw a publican, named Levi, sitting at the receipt of custom, and He said unto him: Follow me. And so on.
+At that time: Jesus saw a publican, named Levi, sitting at the receipt of custom, and He said to him: Follow Me. And the rest.
 _
-Homily by St. Ambrose, Bishop (of Milan)
-!Book v, Comment. on Luke v
-There is a mystery in this calling of the publican, whom He biddeth to follow Him, not so much by bodily steps as by change of heart. Hitherto Levi had been making greedy gains from merchandise, cruel riches at the cost of sailors' toils and dangers; but now, at the call of a word, he, who had been plundering other men's goods, leaveth his own. He leaveth that base station, and followeth hard after the Lord with all his heart. And Levi made Him a great feast in his own house. He that welcometh Christ into his home, feasteth upon the excellency of all pleasures.
+Homily of Saint Ambrose the Bishop
+!Book 5 of the Commentary on Luke, chapter 5, after the beginning
+There follows this mystical calling of the publican, whom He commands to follow, not by the step of the body, but by the affection of the mind. Therefore he, formerly turning to his own account the avaricious gains from the wages, the hard profits from the labours and dangers of sailors, being called by the word, leaves his own things, he, who used to seize the things of others; and, abandoning that base seat, he walks after the Lord with the whole footprint of the mind. He also exhibits the preparation of a great banquet; for he who receives Christ in the inward dwelling is fed with the greatest delights of overflowing pleasures.
+
+[Lectio2]
+Therefore the Lord gladly enters, and reclines in the affection of him who has believed. But again the envy of the faithless is kindled, and the figure of future punishment is prefigured. For while the faithful are feasting and reclining in that kingdom of the heavens, faithlessness shall be tormented with fasting. At the same time it is shown how great a difference there is between the rivals of the Law and of grace, that those who follow the law suffer the eternal hunger of a fasting mind: but those who have received the word in the interior of the soul, refreshed by the abundance of heavenly food and of the fountain, cannot hunger and thirst.
+
+[Lectio3]
+And therefore those who were fasting in soul murmured, saying: Why doth He eat and drink with publicans and sinners? That is a serpentine voice. Finally the serpent first uttered this voice, saying to Eve: Why hath God said: Ye shall not eat of every tree? Therefore they pour forth the poisons of their father, who say: Why doth He eat and drink with publicans and sinners? Whence the Lord, by eating with sinners, does not forbid us even to enter into a banquet with the Gentiles, saying: They that are whole need not a physician, but they that are sick.
