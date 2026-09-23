@@ -1,13 +1,13 @@
 [Officium]
-St. Thecla, Virgin & Martyr
+Saint Thecla, Virgin and Martyr
 
 [Name]
 Thecla
 
 [Oratio]
-Grant, we beseech thee, Almighty God, unto all thy servants who do here keep the birthday of thy blessed Virgin and Martyr Thecla, and do year by year rejoice at her solemn commemoration, that they may have grace to follow after the pattern of her great faith.
+Grant, we beseech Thee, almighty God: that we who keep the birthday of Thy blessed Virgin and Martyr Thecla may both rejoice in the annual solemnity and profit by the example of so great a faith.
 $Per Dominum
 
 [Lectio93]
-This virgin Thecla was the daughter of noble parents at Iconium, and a disciple of the Apostle Paul. She is the subject of extraordinary praises by the holy Fathers. In the eighteenth year of her age, she parted from one Thamiris, to whom she had been betrothed, and her kindred accused her of being a Christian. A pile was set a-fire for her, unless she should deny Christ, but she made the sign of the Cross, and willingly entered it, and rain came, and put out the fire. She came to Antioch, where they threw her to wild beasts; and strove to tear her asunder, by tying her to oxen driven different ways; and cast her into a pit with many snakes; but by the mercy of Jesus Christ she was delivered from all. The warmth of her faith and the holiness of her life brought many to Christ. She returned into her own country, and withdrew to be an hermit, alone on a certain mountain, and passed away to be with the Lord, aged ninety years, and famous for many good works and miracles. She was buried at Seleucia.
+Thecla the virgin, born at Iconium of illustrious parents, instructed by the Apostle Paul in the precepts of the faith, is celebrated with the wonderful praises of the holy Fathers. Who, being in her eighteenth year, having left her betrothed Thamiris, when her parents had accused her because she was a Christian, first armed with the sign of the cross, cast herself into a burning pile which was prepared for her unless she renounced Christ. But the fire being extinguished by a rain which suddenly arose, she came to Antioch; where, having been exposed to wild beasts and bound to bulls driven in different directions, soon afterwards cast into a pit full of serpents, she is delivered from all by the grace of Jesus Christ. By the ardour of whose faith and the sanctity of whose life many were converted to Christ. Returning again to her country, she withdrew alone into a mountain. Afterwards, distinguished by many virtues and miracles, in her ninetieth year she departed to the Lord, and was buried at Seleucia.
 &teDeum
