@@ -1,9 +1,77 @@
 [Officium]
-Sts. Isaac Jogues, Jean de Brébeuf and Companions, Martyrs
+Saints Isaac Jogues, John de Brébeuf and their Companion Martyrs
+
+[Rank]
+;;Duplex;;3;;vide C3
+
+[Rule]
+vide C3;
+Quorum Festum
 
 [Oratio]
-O God, You have consecrated the first fruits of the Faith in the northern parts of America by the preaching and blood shed by Your holy Martyrs, Isaac, John and their Companions; grant, we beseech You, in Your mercy and through their intercession, that the fruitful harvest of Christians may increase everywhere from day to day. 
+O God, who didst consecrate the first-fruits of the faith in the northern regions of America by the preaching and the blood of Thy holy Martyrs Isaac, John, and their Companions: grant propitiously; that, by their intercession, a flourishing harvest of Christians may everywhere increase day by day.
 $Per Dominum
+
+[Lectio4]
+From among those members of the Society of Jesus who in the middle of the seventeenth century most greatly illustrated the beginnings of the Church in North America, God chose for Himself eight most pure victims, that the seeds of the faith, watered by their blood, might thereafter spring up into more abundant harvests. All these Martyrs, born in France and, except for two laymen, advanced to the priesthood, having been sent by their Superiors into the Canadian Mission, which was then called New France, after countless apostolic journeys from the city of Quebec through those various immense regions, and most severe labours for the one and the same cause of religion, although not at one and the same time nor place, were most cruelly slain. As leaders and masters among them are rightly reckoned John de Brébeuf, born of noble stock at Condé in the former diocese of Bayeux, now of Coutances, and Isaac Jogues, of Orléans, men inflamed with strenuous and apostolic zeal, most given to mortification, most closely united with God in prayer, and sometimes also enlightened by heavenly visions. Not unlike them were the four companion priests, Anthony Daniel of Dieppe, Gabriel Lalemant and Charles Garnier of Paris, Noel Chabanel of Mende; all of whom faithfully discharged sacred offices in various villages, especially among the Hurons. 
+
+[Responsory4]
+R. Sancti tui, Domine, mirabile consecuti sunt iter, servientes præceptis tuis, ut invirentur illæsi in aquis validis:
+* Terra apparuit arida, et in Mari Rubro via sine impedimento.
+V. Quoniam percussit petram et fluxerunt aquæ et torrentes inundaverunt.
+R. Terra apparuit arida, et in Mari Rubro via sine impedimento.
+
+[Lectio5]
+Frequentes finitimorum Iroquensium incursiones, Huronicam missionem sæpe vastantes, haud raro in supremum discrimen Patrum vitam vocabant. Anno millesimo sexcentesimo quadragesimo secundo, Isaacus Jogues, cum Renato Goupil, Societatis Jesu coadjutore temporali, ex urbe Quebecensi ad Hurones iter faciens, in Iroquenses incidit, qui eum ejusque socium dirissime torquent et in servitutem redigunt. Eodem anno die vigesima nona Septembris, Renatus, in odium salutiferæ crucis a barbaro sene interfici jussus, prope Auriesville, in hodierno Neo-Eboracensi Statu, candidissimam animam efflavit. Isaacus anno proximo, aufugiendi occasionem nactus, in Galliam revertit; sed post annum Americam repetens et semel atque iterum ad eosdem barbaros, suos olim carnifices, cum Joanne de la Lande, Societatis Jesu item coadjutore, progressus, die decima octava Octobris anno millesimo sexcentesimo quadragesimo sexto, in hodierna diocesi Albanensi, acinace percussus martyrii palmam consecutus est. Postero vero die ejus socius Joannes, eadem redimitus corona, ad cælum evolavit.
+
+[Responsory5]
+R. Verbera carnificum non timuerunt Sancti Dei, morientes pro Christi nomine:
+* Ut heredes fierent in domo Domini.
+V. Tradiderunt corpora sua propter Deum ad supplicia.
+R. Ut heredes fierent in domo Domini.
+
+[Lectio6]
+Anno millesimo sexcentesimo quadragesimo octavo, die quarta Julii Antonius Daniel, qui pagi Sancti Joseph inter Hurones curam gerebat, contra invasores Iroquenses gregem suum impavidus defendens, sagittis et ignitis glandibus confossus, ad templi fores bonus pastor pro ovibus animam posuit. Anno proximo, die decima sexta Martii, Joannes de Brebeuf, Huronum apostolus merito nuncupatus, una cum Gabriele Lalemant, ab Iroquensibus comprehensus, post diuturnos sævissimosque cruciatus, ipsis barbaris invictam Christi pugilis fortitudinem demirantibus, in pago Sancti Ignatii in hodierna Canadensi regione Ontario nuncupata, gloriosus occubuit; quem postridie Gabriel Lalemant eadem cruenta via eademque virtute secutus est. Mense autem Decembri ejusdem anni millesimi sexcentesimi quadragesimi noni, in pervigilio Immaculatæ Conceptionis beatæ Mariæ Virginis, Carolus Garnier, vulneribus confossus et securi percussus, innocentissimam vitam glorioso exitu conclusit. Postero demum die, Natalis Chabanel, ab Hurone apostata dolose invasus et in profluentem dejectus, in dilecta sibi Missione, cui perpetuo colendæ, natura frustra obsistente, heroico voto se obstrinxerat, optatam martyrii palmam adeptus est. Hos octo Americæ borealis primores Martyres Pius Undecimus Pontifex Maximus, anno sacro millesimo nongentesimo vigesimo quinto, Beatorum numero, eosque quinque post annis Sanctorum fastis ascripsit.
+
+[Responsory6]
+R. Tamquam aurum in fornace probavit electos Dominus, et quasi holocausti hostiam accepit illos; et in tempore erit respectus illorum:
+* Quoniam donum et pax est electis Dei.
+V. Qui confidunt in illum, intellegent veritatem: et fideles in dilectione acquiescent illi.
+R. Quoniam donum et pax est electis Dei.
+&Gloria
+R. Quoniam donum et pax est electis Dei.
 
 [Lectio94]
 From among those members of the Society of Jesus, who in the middle of the seventeenth century cultivated the most difficult mission of New France, and greatly illustrated the early Church in North America, God chose for himself eight very pure victims, sacrificed in the present regions of New York and Ontario in Canada. Among these noble leaders and teachers are Jean de Brébeuf and Isaac Jogues, energetic and apostolic men enflamed with the zeal for souls, most devoted to mortification, and most united with God in prayer. The priests Antoine Daniel, Gabriel Lalemant, Charles Garnier and Noël Chabanel, as well as René Goupil and Jean de la Lande, the assistants of the Fathers, were adorned with not inconsiderable virtues. Because of the nature and miserable way of living of the natives of the Huron, like martyrs, they all shed their blood in a common way for one cause of religion, though not in one place or time; some, however, endured tortures, scarcely believable, and even with invincible fortitude, so that the barbarian butchers themselves marveled at them. Famous for their miracles, Pius the Eleventh enrolled them amongst the Blessed, and soon afterwards, in the number of the Saints.
+&teDeum
+
+[Lectio7]
+Léctio sancti Evangélii secúndum Lucam
+!Luc 6:17-23
+In illo témpore: Descendens Jesus de monte, stetit in loco campestri, et turba discipulorum ejus, et multitudo copiosa plebis ab omni Judǽa, et Jerúsalem, et maritima, et Tyri, et Sidonis. Et réliqua.
+_
+Homilia sancti Petri Canisii Presbýteri
+!Notæ in evangelicas lectiones: in die festo Omnium Sanctorum, post initium
+Notabo Christum longe aliter quam hunc mundum, de beatitudine docere atque pronuntiare. Mundi etenim est proprium rebus caducis et fluxis, quæ hic relinquendæ sunt, mentiri hominis felicitatem, perinde ac si dicatur: Beatus populus, cui hæc sunt. Immo vero quos Christus beatos hic pronuntiat, eos insipiens mundus tantum pro miseris et infelicibus ducit, eosdem de more contemnit atque aversatur, ut hinc étiam Christus ipse testetur Apostolis: Amen, amen dico vobis, quia plorabitis et flebitis vos; mundus autem gaudebit, vos autem contristabimini. Recteque dixit Salomon: Ambulans recto itinere et timens Deum, despicitur ab eo qui infami graditur via.
+
+[Responsory7]
+R. Propter testamentum Domini et leges paternas, Sancti Dei perstiterunt in amóre fraternitatis:
+* Quia unus fuit semper spiritus in eis, et una fides.
+V. Ecce quam bonum et quam jucundum habitare fratres in unum!
+R. Quia unus fuit semper spiritus in eis, et una fides.
+
+[Lectio8]
+Beati demum sunt qui persecutionem propter justitiam patiuntur, suaque invicta patientia Christi regnum æternum obtinent. Ad hoc genus beatitudinis, nulli magis quam protomartyr Stephanus aliique fortissimi Christi milites ac martyres referendi sunt: quoniam velut oves ad occisionem pertractæ, ad sanguinem usque pro justitia christiana certarunt, nulla ut hostium vis atque barbaries, nulla tribulationis vel tentationis acerbitas eos a fidei confessione, Christi caritate, doctrina Ecclesiæ et justitiæ tramite potuerit abducere ac separare. O felices illi qui bona testari conscientia potuerunt: Quis nos separabit a caritate Christi? Tribulatio? an angustia? an fames? an nuditas? an periculum? an persecutio? an gladius? In his omnibus superamus propter eum qui dilexit nos. Transivimus per ignem et aquam, et eduxisti nos in refrigerium.
+
+[Responsory8]
+R. Sancti mei, qui in carne positi certamen habuistis:
+* Mercedem laboris ego reddam vobis.
+V. Venite, benedicti Patris mei, percipite regnum.
+R. Mercedem laboris ego reddam vobis.
+&Gloria
+R. Mercedem laboris ego reddam vobis.
+
+[Lectio9]
+Præterea felices omnes qui hanc scalam Jacob, superioribus gradibus octo distinctam, in hunc usque diem ascendunt, relictis omnibus impedimentis, ita ut capitales hostes, mundum, carnem ac satanam, cotidie vincant sibique virtutum studio gradum faciant ad beatam immortalitatem. Verum longe feliciores et illi, qui pugnandi et vincendi fecere finem et, ipso ascendendi labore confecto, ad certaminis coronam pervenerunt jamque, veluti rude donati et emeriti milites, quiete summa potiuntur, et in cælesti tabernaculo habitant, mercede amplissima cumulati. Nec dubium quin sancti Martyres piique Doctores præ ceteris florescant electis in perpetuas æternitates, quoniam ob virtutes heroicas aureolam, sicut Theologi vocant, et excellentem lauream peculiari privilegio consequentur.
+&teDeum
+
