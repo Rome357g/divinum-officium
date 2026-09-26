@@ -1,13 +1,13 @@
 [Officium]
-Sts. Cyprian and Justina, Martyrs
+Saints Cyprian and Justina, Virgin, Martyrs
 
 [Oratio]
-Lord, let the succour of thy blessed martyrs Cyprian and Justina never fail us, since Thou never ceasest to look in mercy upon any unto whom Thou dost grant the stay of such helpers.
+May the continual protections of the blessed Martyrs Cyprian and Justina foster us, O Lord: for Thou ceasest not to look propitiously upon those whom Thou hast granted to be helped by such aids.
 $Per Dominum
 
 [Lectio2]
-Cyprian was firstly a warlock and lastly a Martyr. A certain young man having a violent lust after a Christian maiden named Justina, employed him to excite her to join in this lewdness, by dint of incantations and philters. Cyprian thereupon asked counsel of the devil, how he might best gain that end. But the devil answered him that these arts are only thrown away upon true worshippers of Christ. This answer troubled Cyprian, and he began to repent heartily of the course of life he had hitherto led. And then he forsook his arts magic, and gave himself wholly up to the faith of the Lord Christ. 
+Cyprian, at first a magician, afterwards a Martyr, when he attempted by incantations and sorceries to entice Justina, a Christian Virgin, whom a certain young man ardently loved, unto assent to his lust, consulted a demon by what means he might accomplish this. To whom the demon answered that no art would avail him against those who truly worshiped Christ. Cyprian, moved by this answer, began vehemently to grieve over the conduct of his former life. Therefore, having abandoned the magical arts, he converted himself wholly to the faith of Christ the Lord.
 
 [Lectio3]
-For this cause, he and the Virgin Justina were arrested together, beaten with blows and scourging, and cast into prison, if haply they might change their mind. Being brought out of the prison, but still standing fast in their Christian religion, they were dipped in a vessel full of hot pitch, fat, and wax, and in the end beheaded, at Nicomedia, (on the 26th day of September, in the year of our Lord 304.) Their bodies were thrown out, and lay unburied for the space of six days, at the end of which time some sailors took them secretly by night on board a ship and carried them to Rome. They were first buried on the farm of the noble Lady Rufina, but afterwards brought into the city, where they lie hard by the Baptistery in the Church of (the Saviour, built by) Constantine.
+For which cause he was apprehended together with the Virgin Justina, and both were beaten with buffets and scourges; presently they were cast into prison, if perchance they might change their resolve. But being afterwards let go from thence, when they were found most constant in the Christian religion, they were cast into a frying pan full of boiling pitch, fat, and wax. At length at Nicomedia they were beheaded. Whose cast-out bodies, when they had lain unburied for six days, certain sailors by night secretly placed upon a ship and carried to Rome. And at first they were buried on the estate of Rufina, a noble woman; afterwards, translated into the City, they were enshrined in the Constantinian basilica near the baptistery.
 &teDeum
