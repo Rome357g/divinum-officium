@@ -9,11 +9,11 @@ vide C3;
 Quorum Festum
 
 [Oratio]
-O God, who didst consecrate the first-fruits of the faith in the northern regions of America by the preaching and the blood of Thy holy Martyrs Isaac, John, and their Companions: grant propitiously; that, by their intercession, a flourishing harvest of Christians may everywhere increase day by day.
+O God, who didst consecrate the first-fruits of the faith in the northern regions of America by the preaching and the blood of Thy holy Martyrs Isaac, John, and their Companions: propitiously grant; that, by their intercession, a flourishing harvest of Christians may everywhere increase day by day.
 $Per Dominum
 
 [Lectio4]
-From among those members of the Society of Jesus who in the middle of the seventeenth century most greatly illustrated the beginnings of the Church in North America, God chose for Himself eight most pure victims, that the seeds of the faith, watered by their blood, might thereafter spring up into more abundant harvests. All these Martyrs, born in France and, except for two laymen, advanced to the priesthood, having been sent by their Superiors into the Canadian Mission, which was then called New France, after countless apostolic journeys from the city of Quebec through those various immense regions, and most severe labours for the one and the same cause of religion, although not at one and the same time nor place, were most cruelly slain. As leaders and masters among them are rightly reckoned John de Brébeuf, born of noble stock at Condé in the former diocese of Bayeux, now of Coutances, and Isaac Jogues, of Orléans, men inflamed with strenuous and apostolic zeal, most given to mortification, most closely united with God in prayer, and sometimes also enlightened by heavenly visions. Not unlike them were the four companion priests, Anthony Daniel of Dieppe, Gabriel Lalemant and Charles Garnier of Paris, Noel Chabanel of Mende; all of whom faithfully discharged sacred offices in various villages, especially among the Hurons. 
+From among those members of the Society of Jesus who in the middle of the seventeenth century most greatly illustrated the beginnings of the Church in North America, God chose for Himself eight most pure victims, that the seeds of the faith, watered by their blood, might thereafter spring up into more abundant harvests. All these Martyrs, born in France and, except for two laymen, advanced to the priesthood, having been sent by their Superiors into the Canadian Mission, which was then called New France, after countless apostolic journeys from the city of Quebec through those various immense regions, and most severe labours for the one and the same cause of religion, although not at one and the same time nor place, were most cruelly slain. As leaders and masters among them are rightly reckoned John de Brébeuf, born of a noble family in the diocese of Condé, formerly of Bayeux, now of Coutances, and Isaac Jogues, of Orléans, men inflamed with strenuous and apostolic zeal, most given to mortification, most closely united with God in prayer, sometimes even illuminated by heavenly visions. Not unlike them were the four companion priests, Anthony Daniel of Dieppe, Gabriel Lalemant and Charles Garnier of Paris, Noel Chabanel of Mende; all of whom faithfully discharged their sacred duties in various villages, most especially among the Hurons. 
 
 [Responsory4]
 R. Thy saints, O Lord, have obtained a wonderful way, serving Thy commandments, that they might be found unharmed in the strong waters:
@@ -65,13 +65,13 @@ Finally blessed are they who suffer persecution for justice’ sake, and by thei
 
 [Responsory8]
 R. My saints, who while placed in the flesh had a combat:
-* Mercedem laboris ego reddam vobis.
-V. Venite, benedicti Patris mei, percipite regnum.
-R. Mercedem laboris ego reddam vobis.
+* I will render unto you the reward of your labour.
+V. Come, ye blessed of My Father, possess the kingdom.
+R. I will render unto you the reward of your labour.
 &Gloria
-R. Mercedem laboris ego reddam vobis.
+R. I will render unto you the reward of your labour.
 
 [Lectio9]
-Præterea felices omnes qui hanc scalam Jacob, superioribus gradibus octo distinctam, in hunc usque diem ascendunt, relictis omnibus impedimentis, ita ut capitales hostes, mundum, carnem ac satanam, cotidie vincant sibique virtutum studio gradum faciant ad beatam immortalitatem. Verum longe feliciores et illi, qui pugnandi et vincendi fecere finem et, ipso ascendendi labore confecto, ad certaminis coronam pervenerunt jamque, veluti rude donati et emeriti milites, quiete summa potiuntur, et in cælesti tabernaculo habitant, mercede amplissima cumulati. Nec dubium quin sancti Martyres piique Doctores præ ceteris florescant electis in perpetuas æternitates, quoniam ob virtutes heroicas aureolam, sicut Theologi vocant, et excellentem lauream peculiari privilegio consequentur.
+Moreover happy are all who ascend this ladder of Jacob, distinguished by the eight higher degrees, even unto this day, having left behind all impediments, so that they daily overcome the capital enemies, the world, the flesh and Satan, and by the pursuit of virtues make for themselves a step unto blessed immortality. But far happier are those also who have made an end of fighting and conquering and, the labour of ascending being finished, have arrived at the crown of the combat and now, as it were discharged and veteran soldiers, enjoy the highest quiet, and dwell in the heavenly tabernacle, heaped with most ample reward. Nor is there doubt but that the holy Martyrs and pious Doctors flourish before the other elect unto perpetual eternities, since on account of their heroic virtues they will obtain by a special privilege the aureole, as the Theologians call it, and an excellent laurel.
 &teDeum
 
