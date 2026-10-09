@@ -1,9 +1,9 @@
 [Officium]
-St. Remigius, Bishop and Confessor
+Saint Remigius, Bishop and Confessor
 
 [Name]
 Remigius
 
 [Lectio93]
-Remigius, Archbishop of Reims, flourished in the time of Chlodwig, King of the Franks, whom he baptised, and was the first who, by his preaching and miracles, brought the Franks to believe in the Lord Christ. At his prayers, a dead maiden was raised to life. He expounded many books of the Holy Scriptures. He ministered to the Church of Rheims with the utmost acceptance for above three score and ten years, and the holiness of his life and death were witnessed by many signs and wonders which befell afterwards.
+Remigius, bishop of Rheims, flourished under Clovis king of the Franks; whom he also baptized, and, first of all, by doctrine and miracles led the Franks to the faith of Christ the Lord. By his prayer a dead girl came to life again. He interpreted many books of the divine Scripture. For more than seventy years he administered the church of Rheims with the highest praise. Many miracles that followed approved the holiness of his life and death.
 &teDeum
