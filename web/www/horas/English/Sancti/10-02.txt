@@ -1,95 +1,84 @@
 [Officium]
-Guardian Angels
+Of the Holy Guardian Angels
 
 [Ant Vespera]
 God hath given His Angels charge over thee, * to keep thee in all thy ways.
 Let us praise the Lord, * Whom the Angels do praise, unto Whom Cherubim and Seraphim do cry, Holy, Holy, Holy.
-In heaven their Angels do always behold the face of My Father, * Which is in heaven.
-Blessed be God, * Who sent His Angel, and delivered His servants that trusted in Him.
-Praise ye God, * all His Angels Praise ye Him, all His hosts.
+Their Angels * always see the face of My Father who is in heaven.
+Blessed be God, * who hath sent His Angel, and hath delivered His servants that believed in Him.
+Praise ye God, * all His Angels: praise ye Him, all His Virtues.
 
 [Hymnus Vespera]
-v. Angel-guardians of men, spirits and powers we sing,
-Whom our Father hath sent, aids to our weakly frame,
-Heavenly friends and guides, help from on high to bring,
-Lest we fail through the foeman's wile.
+v. We sing of the Angels, guardians of men,
+Whom the Father hath added to frail nature
+As heavenly companions, lest it succumb
+To the lying-in-wait enemies.
 _
-He, the spoiler of souls, angel-traitor of old,
-Cast in merited wrath out of his honoured place,
-Burns with envy and hate, seeking their souls to gain
-Whom God's mercy invites to heaven.
+For, because the traitor angel fell,
+He merited to be driven from granted honors,
+Burning with envy he strives to drive away
+Those whom God calls to heaven.
 _
-Therefore come to our help, watchful ward of our lives:
-Turn aside from the land God to thy care confides
-Sickness and woe of soul, yea, and what else of ill
-Peace of heart to its folk denies.
+Hither, therefore, O ever-watchful guardian, fly,
+Averting from the homeland entrusted to thee
+As much diseases of the soul as whatever
+Does not allow the inhabitants to rest.
 _
-Now to the Holy Three praise evermore resound:
-Under whose hand divine resteth the triple world
-Governed in wondrous wise: glory be theirs and might
-While the ages unending run.
+Let pious praise be constantly to the Holy Trinity,
+By whose perpetual power this threefold world [earth, sea, sky]
+Is ruled, whose glory reigns
+Through all ages.
 Amen.
 
 [Ant 1]
-Are they not all * ministering spirits, sent forth to minister for them who shall be heirs of salvation?
+Are they not all ministering * Spirits, sent to minister for them who shall receive the inheritance of salvation?
 
 [Oratio]
-O God, Who in thine unspeakable Providence hast been pleased to give thine holy Angels charge over us, to keep us, mercifully grant unto our prayers, that we be both ever fenced by their wardship here, and everlastingly blessed by their fellowship hereafter.
+O God, who by Thine ineffable providence dost deign to send Thy holy Angels to our custody: grant to Thy suppliants; both always to be defended by their protection, and to rejoice in eternal society.
 $Per Dominum
 
 [Invit]
-The Lord, He is the King of the Angels, * O come, let us worship Him.
+The Lord, the King of Angels, * Come, let us adore.
 
 [Ant Matutinum]
-The Lord God of heaven and earth shall send His Angel before thee.;;8
-My God hath sent His Angel, and hath shut the lions' mouths, that they have not hurt me.;;10
-Go prosperously, and the Lord be with you in your journey, and His Angel keep you company.;;14
-When I came unto you, by the will of God I came; bless Him, and give Him thanks.;;18
-The Angel of the Lord, which went before the camp of Israel, removed, and went behind them.;;23
-The Angel of the Lord encampeth round about them that fear Him, and delivereth them.;;33
-The Lord sent His Angel, which cut off all the mighty of valour, and the leaders and captains in the camp of the King of Assyria.;;95
-Worship the Lord, all ye His Angels! Zion heard, and was glad.;;96
-Bless the Lord, all ye His Angels, that excel in strength, that do His commandments, to hearken unto the voice of His word.;;102
+The Lord, the God * of heaven and of earth, He will send His Angel before thee.;;8
+My God * hath sent His Angel and hath shut the mouths of the lions, and they have not hurt me.;;10
+May you walk well, * and may the Lord be in your journey, and may His Angel accompany you.;;14
+When I was with you, * I was there by the will of God: bless ye Him and sing to Him.;;18
+The Angel of the Lord, * who went before the camp of Israel, lifting himself up, went behind them.;;23
+The Angel of the Lord shall encamp * round about them that fear Him, and shall deliver them.;;33
+The Lord sent * His Angel, who smote every strong man and warrior, and the prince of the army of the king of the Assyrians.;;95
+Adore the Lord * all ye His Angels: Sion heard, and was glad.;;96
+Bless the Lord, * all ye His Angels, ye that are mighty in strength, and execute His word, hearkening to the voice of His orders;;102
 
 [Lectio1]
 From the Book of Exodus
 !Exod 23:20-23
-20 Behold I will send my angel, who shall go before thee, and keep thee in thy journey, and bring thee into the place that I have prepared.
-21 Take notice of him, and hear his voice, and do not think him one to be contemned: for he will not forgive when thou hast sinned, and my name is in him.
-22 But if thou wilt hear his voice, and do all that I speak, I will be an enemy to thy enemies, and will afflict them that afflict thee.
-23 And my angel shall go before thee, and shall bring thee in unto the Amorrhite, and the Hethite, and the Pherezite, and the Chanaanite, and the Hevite, and the Jebusite, whom I will destroy.
+Behold I will send My Angel, who shall go before thee, and keep thee in thy journey, and bring thee into the place that I have prepared. Take notice of him, and hear his voice, and do not think him one to be contemned: for he will not forgive when thou hast sinned, and My name is in him. But if thou wilt hear his voice, and do all that I speak, I will be an enemy to thy enemies, and will afflict them that afflict thee. And My Angel shall go before thee.
 
 [Responsory1]
 R. God hath given His Angels charge over thee, to keep thee in all thy ways.
-* They shall bear thee up in their hands, lest haply thou dash thy foot against a stone.
-V. Thousands of thousands ministered unto Him, and ten thousand times hundreds of thousands stood before Him.
-R. They shall bear thee up in their hands, lest haply thou dash thy foot against a stone.
+* In their hands they shall bear thee up, lest thou dash thy foot against a stone.
+V. Thousands of thousands ministered to Him, and ten thousand times a hundred thousand stood before Him.
+R. In their hands they shall bear thee up, lest thou dash thy foot against a stone.
 
 [Lectio2]
 From Zacharias the Prophet
 !Zech 1:7-11
-7 In the four and twentieth day of the eleventh month which is called Sabath, in the second year of Darius, the word of the Lord came to Zacharias the son of Barachias, the son of Addo, the prophet, saying:
-8 I saw by night, and behold a man riding upon a red horse, and he stood among the myrtle trees, that were in the bottom: and behind him were horses, red, speckled, and white.
-9 And I said: What are these, my Lord? and the angel that spoke in me, said to me: I will shew thee what these are:
-10 And the man that stood among the myrtle trees answered, and said: These are they, whom the Lord hath sent to walk through the earth.
-11 And they answered the angel of the Lord, that stood among the myrtle trees, and said: We have walked through the earth, and behold all the earth is inhabited, and is at rest.
+The word of the Lord came to Zacharias the son of Barachias the son of Addo, the prophet, saying: I saw by night, and behold a Man riding upon a red horse, and He stood among the myrtle trees that were in the deep: and behind Him were horses, red, speckled, and white. And I said: What are these, my Lord? And the Angel that spoke in me said to me: I will show thee what these are. And the Man that stood among the myrtle trees answered and said: These are they whom the Lord hath sent to walk through the earth. And they answered the Angel of the Lord that stood among the myrtle trees, and said: We have walked through the earth, and behold all the earth is inhabited and is at rest.
 
 [Responsory2]
-R. Then the angel of the Lord answered, and said: O Lord of hosts,
-* How long wilt Thou not have mercy on Jerusalem, and on the cities of Judah, against which Thou hast had indignation?
-V. These three score and ten years?
-R. How long wilt Thou not have mercy on Jerusalem, and on the cities of Judah, against which Thou hast had indignation?
+R. The Angel of the Lord answered and said: O Lord of hosts,
+* How long wilt Thou not have mercy on Jerusalem and on the cities of Juda, with which Thou hast been angry?
+V. For this is the seventieth year.
+R. How long wilt Thou not have mercy on Jerusalem and on the cities of Juda, with which Thou hast been angry?
 
 [Lectio3]
 !Zech 2:1-5
-1 And I lifted up my eyes, and saw, and behold a man, with a measuring line in his hand.
-2 And I said: Whither goest thou? and he said to me: To measure Jerusalem, and to see how great is the breadth thereof, and how great the length thereof.
-3 And behold the angel that spoke in me went forth, and another angel went out to meet him.
-4 And he said to him: Run, speak to this young man, saying: Jerusalem shall be inhabited without walls, by reason of the multitude of men, and of the beasts in the midst thereof.
-5 And I will be to it, saith the Lord, a wall of fire round about: and I will be in glory in the midst thereof.
+And I lifted up my eyes and saw, and behold a Man, and in His hand a measuring line. And I said: Whither goest Thou? And He said to me: To measure Jerusalem, and to see how great is the breadth thereof, and how great the length thereof. And behold the Angel that spoke in me went forth, and another Angel went out to meet him, and said to him: Run, speak to this young man, saying: Jerusalem shall be inhabited without walls, by reason of the multitude of men and of the beasts in the midst thereof. And I will be to it, saith the Lord, a wall of fire round about: and I will be the glory in the midst thereof.
 
 [Responsory3]
-R. When ye see the Gentiles, be not afraid of them, but in your hearts worship and fear the Lord;
+R. Fear not before the face of the Gentiles; but in your hearts adore ye and fear the Lord;
 * For His Angel is with you.
 V. An Angel stood at the Altar of the Temple, having a golden censer in his hand.
 R. For His Angel is with you.
@@ -97,9 +86,9 @@ R. For His Angel is with you.
 R. For His Angel is with you.
 
 [Lectio4]
-From the Sermons of St. Bernard, Abbot (of Clairvaux.)
-!On Ps. xc
-He hath given His Angels charge over thee. A wonderful graciousness, and a wonderful outpouring of love. For who hath given charge? And what charge? Unto whom? And over whom? Let us carefully consider, my brethren, let us carefully hold in mind this great charge. For who hath given this charge? To Whom belong the Angels? Whose commandments do they obey, and Whose will do they do? He hath given His Angels charge over thee, to keep thee in all thy ways, and that not carelessly, for they shall bear thee up in their hands. The Highest Majesty, therefore, hath given charge unto Angels, even His Angels. Unto these beings so excellently exalted, so blessed, so near to Himself, even as His own household, unto these hath He given charge over thee. Who art thou? What is man, that Thou art mindful of him? or the son of man, that Thou visitest him? (Ps. viii. 5.) Even as though man were not rottenness, and the son of man, a worm. (Job. xxv. 6.) But what charge hath He given them over thee? To keep thee in all thy ways.
+Sermon of Saint Bernard the Abbot
+!On the Psalm Who dwelleth (90)
+He hath given His Angels charge over thee. Wondrous condescension, and truly a great love of charity. For who? to whom? concerning whom? what hath he commanded? Let us studiously consider, brethren, let us diligently commit to memory so great a commandment. For who hath commanded? whose are the Angels? whose commandments do they obey? whose will do they obey? Truly He hath given His Angels charge over thee, that they keep thee in all thy ways. Nor do they hesitate even to bear thee up in their hands. The highest Majesty therefore hath commanded the Angels, and hath commanded His own Angels. Unto those sublime ones indeed, as blessed as they are intimately united to Himself and truly of His household, He hath given charge concerning thee. Who art thou? What is man, that Thou art mindful of him? or the son of man, that Thou considerest him? As if indeed man were not rottenness, and the son of man a worm! But what thinkest thou He hath commanded concerning thee? That they keep thee.
 
 [Responsory4]
 R. As the Lord liveth
