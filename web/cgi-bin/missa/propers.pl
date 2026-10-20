@@ -986,11 +986,12 @@ sub Credo {
       if (!(-e "$datafolder/Latin/$commemo") && $commemo !~ /txt$/i) { $commemo =~ s/$/\.txt/; }
       my %c = %{setupstring('Latin', $commemo)};
 
-      if ( (($c{Rank} =~ /Octav/i && $c{Rank} !~ /post Octavam/) || $c{Rule} =~ /Credo/i)
+      if ( (($c{Rank} =~ /Octav/i && $c{Rank} !~ /post Octavam/) || $c{Rule} =~ /(?<!no )Credo/i)
         && $c{Rank} !~ /Simplex/i
         && $version !~ /196/)
       {
         $flag = 0;
+        setbuild1("Credo", "ratione $commemo");
         last;
       }
     }
@@ -1028,7 +1029,7 @@ sub graduale : ScriptFunc {
   our $votive;
 
   # Rubr. 321/470: Sequentia omittitur in Missis votivis; Dies Irae per n.399
-  my $votivaSinSeq = ($votive && $votive !~ /Defunct|C9/i);
+  my $votivaSinSeq = ($votive && $votive ne 'Hodie' && $votive !~ /Defunct|C9/i);
 
   unless ($votivaSinSeq) {
     if (exists($winner{Sequentia})) {
